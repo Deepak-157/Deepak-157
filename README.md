@@ -1,63 +1,66 @@
+<!-- Banner Container -->
+<!-- Full-width Banner GIF -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/qnOOndyas1EAAAAd/giyuu-giyu-tomioka.gif" width="400" alt="Giyuu Tomioka Demon Slayer GIF">
+  <img src="https://media1.tenor.com/m/qnOOndyas1EAAAAd/giyuu-giyu-tomioka.gif" 
+       alt="Giyuu Tomioka Demon Slayer GIF" 
+       style="width:100%; max-height:400px; object-fit:cover;">
 </p>
 
-<p align="center"><i>“Bugs fear discipline. Latency bows to optimization.”</i></p>
-<h1 align="center" style="font-family:'Cinzel',serif;font-weight:700;letter-spacing:1px;">⚔️ Deepak Goyal | The Code Hashira 🩸</h1>
+<!-- Heading with gradient only on text -->
+<h1 align="center" style="font-family:'Cinzel',serif;font-weight:700;letter-spacing:1px; margin-top:20px; font-size:2.5em;">
+  ⚔️ <span style="background: linear-gradient(90deg, #0F4C75, #1E90FF); -webkit-background-clip: text; color: transparent;">
+    Deepak Goyal | The Code Hashira
+  </span> 🩸
+</h1>
 
-
-
----
+<!-- Quote with gradient only on text -->
+<p align="center" style="font-style: italic; margin-top:10px; font-size:1.2em;">
+  <span style="background: linear-gradient(90deg, #0F4C75, #00CED1); -webkit-background-clip: text; color: transparent;">
+    “Bugs fear discipline. Latency bows to optimization.”
+  </span>
+</p>
 
 ### 🩸 About Me
-💼 **Software Developer Intern** @ *TruEstate (IQOL Technologies)*  
-🎓 **B.Tech in CSE**, *IIIT Kottayam* — CGPA **9.29/10**  
-🌏 Based in *Kerala, India*  
-⚙️ Passionate about **system design**, **clean architecture**, and **high-performance backend systems**
 
-🧩 Engineered and deployed **scalable Node.js + TypeScript microservices** on Google Cloud Run managing 500+ property & user entities  
-🚀 Reduced API latency under **200ms**, improved platform reliability by **20%**, and boosted throughput by **25%**
+<p align="left" style="display: flex; align-items: center; justify-content: flex-start;">
+  <span style="margin-right: 20px;">
+    💻 <span style="background: linear-gradient(90deg, #0F4C75, #1E90FF); -webkit-background-clip: text; color: transparent; font-weight:600;">Full-Stack Developer | MERN + Android Enthusiast</span><br>
+    🤖 <span style="background: linear-gradient(90deg, #0F4C75, #00CED1); -webkit-background-clip: text; color: transparent; font-weight:600;">ML & Deep Learning Explorer — building smart apps & models</span><br>
+    🎓 <span style="background: linear-gradient(90deg, #0F4C75, #1E90FF); -webkit-background-clip: text; color: transparent; font-weight:600;">B.Tech in CSE, IIIT Kottayam — CGPA 9.29/10</span><br>
+    🌏 <span style="background: linear-gradient(90deg, #0F4C75, #00CED1); -webkit-background-clip: text; color: transparent; font-weight:600;">Based in Kerala, India</span><br><br>
+    ✨ <span style="background: linear-gradient(90deg, #0F4C75, #1E90FF); -webkit-background-clip: text; color: transparent;">I love creating scalable web apps, robust Android solutions, and experimenting with ML/DL models that make life smarter.</span>
+  </span>
+  <img src="https://media1.tenor.com/m/_6WdoVlu7a8AAAAC/demon-slayer.gif" alt="Demon Slayer GIF" width="300" />
+</p>
+
+
 
 ---
 
 ### ⚔️ My Breathing Styles
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,typescript,nodejs,postgresql,firebase,react,docker,python,kotlin,tensorflow,git,linux,gcp&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,html,css,javascript,react,bootstrap,jquery,nodejs,expressjs,postgres,gcp,supabase,opencv,matlab,r,linux,vscode,github,git,postman,tailwind,materialui&perline=13" />
+</p>
+
+
+---
+### 🐉 Trophies
+🏆 HackZilla 2025 winner • ⭐ CodeChef 2★ • 150+ LeetCode
+
+---
+
+### 📊 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepak-157&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Deepak-157&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌸 Projects
-🔬 **AgroMitra** — *TensorFlow Lite, scikit-learn, Flask, Gemini Flash*  
-→ AI-based soil analysis model (92% accuracy), real-time inference API, LLM-powered insights  
-
-💰 **Penny Pulse** — *Kotlin, Node.js, PostgreSQL, Supabase*  
-→ Secure expense tracker with JWT auth, SMS parsing, and PDF analytics (+35% retention)
-
-🕰️ **TimeTrek** — *Django, HTML, CSS, Bootstrap*  
-→ Modular productivity app (tasks, notes, calendar) — 40% faster onboarding
-
----
-
-### 🐉 Achievements
-🏆 **Winner** — *HackZilla 2025*, IIIT Sonepat  
-💻 **CodeChef 2★ (1479)** | Solved **150+ LeetCode problems**  
-🧠 Conducted **DSA & System Design mentorships**, improving peer performance by 30%  
-
----
-
-### 🧩 Leadership
-💡 **Core Team Member**, *CodersClub IIIT Kottayam*  
-→ Organized 5+ coding contests (40% participation rise)  
-→ Mentored 20+ juniors in algorithms & optimization  
-→ Drove outreach that **doubled active membership**
-
----
-
-### ⚙️ Stats
+### 🐍 Contribution Snake
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepak-157&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff6b81&icon_color=79dafa" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Deepak-157&theme=tokyonight&hide_border=true&ring=ff6b81&fire=ff6b81&currStreakLabel=79dafa" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
