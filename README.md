@@ -28,7 +28,7 @@
 
 </td>
 <td align="center" valign="middle">
-  <img src="https://media.tenor.com/XrPEJNYbRNEAAAAC/tanjiro-demon-slayer.gif" width="250" alt="Tanjiro Demon Slayer">
+  <img src="https://media1.tenor.com/m/_6WdoVlu7a8AAAAC/demon-slayer.gif" width="250" alt="Tanjiro Demon Slayer">
 </td>
 </tr>
 </table>
@@ -37,7 +37,7 @@
 
 ### ⚔️ My Breathing Styles
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,go,postgres,redis,firebase,gcp,docker,react,python,kotlin,tensorflow,git,linux,postman,html,css,bootstrap&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,html,css,javascript,react,bootstrap,jquery,nodejs,expressjs,postgres,gcp,supabase,opencv,matlab,r,linux,vscode,github,git,postman,tailwind,materialui&perline=13" />
 </p>
 
 ---
