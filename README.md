@@ -1,56 +1,53 @@
-<!-- Banner Container -->
-<!-- Full-width Banner GIF -->
+<!-- =================== BANNER =================== -->
 <p align="center">
   <img src="https://media1.tenor.com/m/qnOOndyas1EAAAAd/giyuu-giyu-tomioka.gif" 
        alt="Giyuu Tomioka Demon Slayer GIF" 
-       style="width:100%; max-height:400px; object-fit:cover;">
+       width="100%" 
+       style="max-height:400px; object-fit:cover; border-radius:8px;">
 </p>
 
-<!-- Heading with gradient only on text -->
-<h1 align="center" style="font-family:'Cinzel',serif;font-weight:700;letter-spacing:1px; margin-top:20px; font-size:2.5em;">
-  ⚔️ <span style="background: linear-gradient(90deg, #0F4C75, #1E90FF); -webkit-background-clip: text; color: transparent;">
-    Deepak Goyal | The Code Hashira
-  </span> 🩸
+<h1 align="center">
+  ⚔️ <span style="color:#1E90FF;">Deepak Goyal</span> | <span style="color:#00CED1;">The Code Hashira</span> 🩸
 </h1>
 
-<!-- Quote with gradient only on text -->
-<p align="center" style="font-style: italic; margin-top:10px; font-size:1.2em;">
-  <span style="background: linear-gradient(90deg, #0F4C75, #00CED1); -webkit-background-clip: text; color: transparent;">
-    “Bugs fear discipline. Latency bows to optimization.”
-  </span>
-</p>
+<p align="center"><i>“Bugs fear discipline. Latency bows to optimization.”</i></p>
+
+---
 
 ### 🩸 About Me
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<p align="left" style="display: flex; align-items: center; justify-content: flex-start;">
-  <span style="margin-right: 20px;">
-    💻 <span style="background: linear-gradient(90deg, #0F4C75, #1E90FF); -webkit-background-clip: text; color: transparent; font-weight:600;">Full-Stack Developer | MERN + Android Enthusiast</span><br>
-    🤖 <span style="background: linear-gradient(90deg, #0F4C75, #00CED1); -webkit-background-clip: text; color: transparent; font-weight:600;">ML & Deep Learning Explorer — building smart apps & models</span><br>
-    🎓 <span style="background: linear-gradient(90deg, #0F4C75, #1E90FF); -webkit-background-clip: text; color: transparent; font-weight:600;">B.Tech in CSE, IIIT Kottayam — CGPA 9.29/10</span><br>
-    🌏 <span style="background: linear-gradient(90deg, #0F4C75, #00CED1); -webkit-background-clip: text; color: transparent; font-weight:600;">Based in Kerala, India</span><br><br>
-    ✨ <span style="background: linear-gradient(90deg, #0F4C75, #1E90FF); -webkit-background-clip: text; color: transparent;">I love creating scalable web apps, robust Android solutions, and experimenting with ML/DL models that make life smarter.</span>
-  </span>
-  <img src="https://media1.tenor.com/m/_6WdoVlu7a8AAAAC/demon-slayer.gif" alt="Demon Slayer GIF" width="300" />
-</p>
+💻 <b>Full-Stack Developer</b> | MERN + Android Enthusiast  
+🤖 <b>ML & Deep Learning Explorer</b> — building smart, scalable apps  
+🎓 <b>B.Tech in CSE, IIIT Kottayam</b> — CGPA <b>9.29/10</b>  
+🌏 Based in <b>Kerala, India</b>  
 
+✨ I love crafting scalable web apps, robust Android solutions, and ML models that actually make sense.
 
+</td>
+<td align="center" valign="middle">
+  <img src="https://media.tenor.com/XrPEJNYbRNEAAAAC/tanjiro-demon-slayer.gif" width="250" alt="Tanjiro Demon Slayer">
+</td>
+</tr>
+</table>
 
 ---
 
 ### ⚔️ My Breathing Styles
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,html,css,javascript,react,bootstrap,jquery,nodejs,expressjs,postgres,gcp,supabase,opencv,matlab,r,linux,vscode,github,git,postman,tailwind,materialui&perline=13" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,go,postgres,redis,firebase,gcp,docker,react,python,kotlin,tensorflow,git,linux,postman,html,css,bootstrap&perline=9" />
 </p>
 
-
 ---
+
 ### 🐉 Trophies
-🏆 HackZilla 2025 winner • ⭐ CodeChef 2★ • 150+ LeetCode
+🏆 HackZilla 2025 Winner • ⭐ CodeChef 2★ • 150+ LeetCode Problems Solved
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepak-157&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Deepak-157&theme=tokyonight&hide_border=true" />
@@ -74,8 +71,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/XrPEJNYbRNEAAAAC/tanjiro-demon-slayer.gif" width="200">
-  <br>
-  <i>“Every commit sharpens the blade.”</i>
-</p>
+<p align="center"><i>“Every commit sharpens the blade.”</i></p>
