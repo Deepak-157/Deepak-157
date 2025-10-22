@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/qnOOndyas1EAAAAd/giyuu-giyu-tomioka.gif" 
        alt="Giyuu Tomioka Demon Slayer GIF" 
        width="100%" 
-       style="max-height:400px; object-fit:cover; border-radius:8px;">
+       style="max-height:300px; object-fit:cover; border-radius:8px;">
 </p>
 
 <h1 align="center">
