@@ -1,7 +1,7 @@
 <h1 align="center">⚔️ Deepak Goyal | The Code Hashira 🩸</h1>
 
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/giyuu-giyu-tomioka-infinity-castle-movie-demon-slayer-gif-12282317417431610193" alt="Giyuu Tomioka Demon Slayer GIF" width="360"/>
+  <img src="https://media1.tenor.com/m/qnOOndyas1EAAAAd/giyuu-giyu-tomioka.gif" alt="Giyuu Tomioka Demon Slayer GIF" width="360"/>
 </p>
 
 <p align="center"><i>“Bugs fear discipline. Latency bows to optimization.”</i></p>
