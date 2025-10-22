@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">⚔️ Deepak Goyal | The Code Slayer 🩸</h1>
 
-<!--
-**Deepak-157/Deepak-157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/2xr1Nqs.gif" width="350" alt="Demon Slayer Banner">
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><i>“No demon tougher than a production bug.”</i></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🩸 About
+🧠 Software Developer | IIIT Kottayam ’26  
+⚙️ Node.js • Go • TypeScript • PostgreSQL • GCP  
+🔥 Building scalable systems at TruEstate (IQOL Technologies)  
+💀 Code like Tanjiro — precise, disciplined, unstoppable.
+
+---
+
+### ⚔️ Tech Arts
+`Go` · `TypeScript` · `Node.js` · `PostgreSQL` · `React` · `Firebase` · `Docker`
+
+---
+
+### 🌸 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepak-157&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-157&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>“The blade that slays demons is forged through bugs and persistence.”</i><br>
+  <a href="https://linkedin.com/in/deepak-goyal-069046325/">LinkedIn</a> • 
+  <a href="https://github.com/Deepak-157">GitHub</a> • 
+  <a href="mailto:Deepakgoyal26dg@gmail.com">Email</a>
+</p>
