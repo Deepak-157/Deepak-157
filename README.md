@@ -1,8 +1,7 @@
+[![MasterHead](https://media1.tenor.com/m/qnOOndyas1EAAAAd/giyuu-giyu-tomioka.gif)](https://rishavchanda.io)
+
 <h1 align="center">⚔️ Deepak Goyal | The Code Hashira 🩸</h1>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/qnOOndyas1EAAAAd/giyuu-giyu-tomioka.gif" alt="Giyuu Tomioka" width="420"/>
-</p>
 
 <p align="center">
   <a href="mailto:Deepakgoyal26dg@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&labelColor=000&color=D14836"></a>
